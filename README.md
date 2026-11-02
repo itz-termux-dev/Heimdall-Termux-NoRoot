@@ -77,4 +77,4 @@ heimdall print-pit
 ```bash
 heimdall version
 ```
-for suggestions ang bug reports please contact on sameenataj427@gmail.com. Thank you
+for suggestions ang bug reports please contact on mubarakpa427@gmail.com. Thank you
